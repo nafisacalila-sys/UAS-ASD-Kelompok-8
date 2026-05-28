@@ -1,0 +1,34 @@
+P001,Andi,20,Umum,Rawat Jalan,100000.0,50000.0,true
+P027,Asep,34,Saraf,Rawat Jalan,190000.0,95000.0,true
+P028,Bella,28,Umum,Rawat Inap,210000.0,85000.0,true
+P002,Budi,25,Gigi,Rawat Inap,150000.0,70000.0,true
+P029,Cahyo,43,Jantung,Rawat Inap,360000.0,210000.0,true
+P003,Citra,30,Anak,Rawat Jalan,120000.0,60000.0,true
+P004,Dewi,28,Umum,Rawat Inap,200000.0,80000.0,true
+P030,Dina,20,Anak,Rawat Jalan,120000.0,50000.0,true
+P005,Eka,35,Saraf,Rawat Jalan,170000.0,90000.0,true
+P006,Fajar,40,Umum,Rawat Inap,250000.0,100000.0,true
+P007,Gina,22,Gigi,Rawat Jalan,110000.0,40000.0,true
+P008,Hadi,50,Saraf,Rawat Inap,300000.0,150000.0,true
+P009,Intan,27,Anak,Rawat Jalan,130000.0,50000.0,true
+P010,Joko,60,Umum,Rawat Inap,280000.0,120000.0,true
+P011,Kevin,32,THT,Rawat Jalan,160000.0,70000.0,true
+P012,Lina,26,Kulit,Rawat Inap,220000.0,100000.0,true
+P013,Maya,41,Saraf,Rawat Jalan,180000.0,90000.0,true
+P014,Nanda,19,Umum,Rawat Jalan,100000.0,50000.0,true
+P015,Oscar,55,Jantung,Rawat Inap,350000.0,200000.0,true
+P016,Putri,29,Anak,Rawat Jalan,140000.0,60000.0,true
+P017,Qori,37,THT,Rawat Inap,240000.0,120000.0,true
+P018,Rina,24,Gigi,Rawat Jalan,130000.0,50000.0,true
+P019,Sandi,48,Saraf,Rawat Inap,320000.0,170000.0,true
+P020,Tina,21,Kulit,Rawat Jalan,125000.0,45000.0,true
+P021,Udin,45,Jantung,Rawat Inap,340000.0,180000.0,true
+P022,Vina,31,Umum,Rawat Jalan,150000.0,65000.0,true
+P023,Wawan,52,THT,Rawat Inap,260000.0,130000.0,true
+P024,Xena,27,Anak,Rawat Jalan,145000.0,55000.0,true
+P025,Yusuf,39,Gigi,Rawat Inap,230000.0,110000.0,true
+P026,Zahra,23,Kulit,Rawat Jalan,135000.0,50000.0,true
+P050,,19,Gigi,Aktif,2000000.0,2000000.0,false
+P050,Ramzi,19,Gigi,Aktif,2000000.0,2000000.0,false
+P050,Ramzi,19,Gigi,Aktif,200000.0,200000.0,false
+P050,Ramzi,19,Gigi,Aktif,2000000.0,2000000.0,false
