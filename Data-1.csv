@@ -1,0 +1,11 @@
+ID,Nama,Umur,Poli,Status,BiayaPeriksa,BiayaObat
+P001,Andi,20,Umum,Rawat Jalan,100000,50000
+P002,Budi,25,Gigi,Rawat Inap,150000,70000
+P003,Citra,30,Anak,Rawat Jalan,120000,60000
+P004,Dewi,28,Umum,Rawat Inap,200000,80000
+P005,Eka,35,Saraf,Rawat Jalan,170000,90000
+P006,Fajar,40,Umum,Rawat Inap,250000,100000
+P007,Gina,22,Gigi,Rawat Jalan,110000,40000
+P008,Hadi,50,Saraf,Rawat Inap,300000,150000
+P009,Intan,27,Anak,Rawat Jalan,130000,50000
+P010,Joko,60,Umum,Rawat Inap,280000,120000
